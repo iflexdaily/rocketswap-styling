@@ -60,7 +60,7 @@ body {
   --box-border-color: #ffffff34;
   --border-radius: 16px;
   --main-background-solid: rgb(81, 0, 128);
-  --main-background-gradient: linear-gradient(533deg, rgb(22, 2, 61) 0%, #1b0a41 90%);
+  --main-background-gradient: linear-gradient(533deg, rgb(63, 24, 136) 0%, #130535 80%);
   --panel-background-gradient: linear-gradient(5deg, rgb(56, 49, 83) 0%, rgb(76, 77, 136) 90%);
 
   --modal-background-primary: linear-gradient(5deg, rgb(78, 76, 126) 10%, rgb(75, 73, 143) 50%);
